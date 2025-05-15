@@ -66,19 +66,26 @@ A full-stack web application that allows users to browse, search, and manage tra
 
 ### 📸 Screenshots
 
-> *(Screenshots to be placed inside a `screenshots/` folder)*
+#### 🏖️ Homepage (Tourist View)
+![Homepage Tourist](screenshots/homepage_tourist.png)
 
-![Home Page](screenshots/homepage.png)  
-*Tourist view showing available packages by division*
+#### 🧑‍💼 Homepage (Agent View)
+![Homepage Agent](screenshots/homepage_agent.png)
 
-![Agent Dashboard](screenshots/agent-dashboard.png)  
-*Agent dashboard for managing tour packages*
+#### ➕ Add Package Page
+![Add Package](screenshots/add_packages.png)
 
-![Add Package](screenshots/add-package.png)  
-*Form for adding a new travel package*
+#### 🔐 Login Page
+![Login](screenshots/login.png)
 
-![Search Filter](screenshots/search.png)  
-*Filter packages by division and name*
+#### 📝 Registration Page
+![Registration](screenshots/registration.png)
+
+#### 📩 Contact Us Page
+![Contact Us](screenshots/contact_us.png)
+
+#### ℹ️ About Us Page
+![About Us](screenshots/about_us.png)
 
 ---
 
