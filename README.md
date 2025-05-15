@@ -67,7 +67,7 @@ A full-stack web application that allows users to browse, search, and manage tra
 ### 📸 Screenshots
 
 #### 🏖️ Homepage (Tourist View)
-![Homepage Tourist](screenshots/homepage_tourist.png)
+![Homepage Tourist](screenshots/Homepage_tourist.png)
 
 #### 🧑‍💼 Homepage (Agent View)
 ![Homepage Agent](screenshots/homepage_agent.png)
