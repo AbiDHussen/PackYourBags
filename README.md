@@ -50,9 +50,6 @@ A full-stack web application that allows users to browse, search, and manage tra
 - 📷 **Image Upload Support**  
   - Agents can upload photos when adding new packages
 
-- 📁 **Organized File Structure**  
-  - Code separated into forms, actions, views, and DB connectors
-
 ---
 
 ### 🛠 Tech Stack
@@ -60,8 +57,6 @@ A full-stack web application that allows users to browse, search, and manage tra
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Architecture:** Procedural PHP with modular file separation
-
 ---
 
 ### 📸 Screenshots
