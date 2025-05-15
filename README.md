@@ -70,10 +70,10 @@ A full-stack web application that allows users to browse, search, and manage tra
 ![Homepage Tourist](screenshots/Homepage_tourist.png)
 
 #### 🧑‍💼 Homepage (Agent View)
-![Homepage Agent](screenshots/homepage_agent.png)
+![Homepage Agent](screenshots/Homepage_agent.png)
 
 #### ➕ Add Package Page
-![Add Package](screenshots/add_packages.png)
+![Add Package](screenshots/Add_Packages.png)
 
 #### 🔐 Login Page
 ![Login](screenshots/login.png)
@@ -82,10 +82,10 @@ A full-stack web application that allows users to browse, search, and manage tra
 ![Registration](screenshots/registration.png)
 
 #### 📩 Contact Us Page
-![Contact Us](screenshots/contact_us.png)
+![Contact Us](screenshots/Contact_Us.png)
 
 #### ℹ️ About Us Page
-![About Us](screenshots/about_us.png)
+![About Us](screenshots/About_Us.png)
 
 ---
 
